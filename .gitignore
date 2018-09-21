@@ -1,1 +1,2 @@
 extractors/dlib/shape_predictor_68_face_landmarks.dat-1
+features/image_features/dlib/*
