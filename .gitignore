@@ -5,3 +5,5 @@ basel
 model2017-1_bfm_nomouth.h5
 shape_predictor_68_face_landmarks.dat
 feature_points.csv
+.idea
+venv
